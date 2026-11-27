@@ -1,0 +1,43 @@
+{
+  "ext_retirementMinCycles":30,
+  "ext_retirementMaxCycles":40,
+  "ext_retirementDelayCostBase":20000,
+  "ext_retirementDelayCostPerMonth":1000,
+  "ext_retirementDelayCostMax":50000,
+
+  "ext_shipBuyPriceMultPerDMod":0.90,
+
+  "ext_partsForSaleFraction":0.5,
+  "ext_partsPerUnitOfSupplies":0.01,
+  "ext_partsFractionReturnedFromScuttling":0.25,
+
+  "ext_shipForSaleFraction":0.25, 
+  "ext_shipRecoverableFraction":0.4,
+  "ext_derelictShipRecoverableFraction":0.2,
+  "ext_shipRecoveryWithStoryPointsFraction":0.5,
+  
+  "ext_weaponForSaleFraction":0.25,
+  "ext_weaponDropFraction":0.25,
+  "ext_weaponSalvageDropFraction":0.25,
+  
+  "ext_fighterForSaleFraction":0.25,
+  "ext_fighterDropFraction":0.25,
+  "ext_fighterSalvageDropFraction":0.35,
+  
+  "ext_hullmodForSaleFraction":0.5,
+  "ext_hullmodDropFraction":0.25,
+  "ext_hullmodSalvageDropFraction":0.5,
+
+  "ext_specialItemSalvageDropFraction":0.5,
+  "ext_commoditySalvageDropFraction":0.4,
+  "ext_sleeperPodsSpecialCrewFraction":0.3,
+  
+  "ext_salvageCargoFractionPostCombat":0.5,
+  "salvageFuelFractionPostCombat":0.2,
+
+  "ext_officersAvailableFraction":0.25, 
+  "ext_cryopodOfficersFraction":0.5,
+  "ext_cryopodAdminsFraction":0.2,
+  "ext_adminAvailableFraction":0.2,
+
+}

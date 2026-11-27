@@ -1,0 +1,21 @@
+Survival Tweaks
+Version 1.0
+For Starsector 0.98.5a
+
+Survival Tweaks is a config preset which adjusts survival mode settings to reflect my personal preferences. 
+
+Main features:
+
+Forced retirement happens after 40 cycles, up from 30, because it doesn't make sense for John Starsector to have an lower mandatory retirement age than the average cop.
+
+Domain-grade parts are more rare, forcing you to be more selective about which d-mods to remove in the early game.
+
+Combat and salvaging provide more recoverable ships, weapons, and commodities (although still well below vanilla vlues) to fix exploration and combat being significantly less profitable than smuggling and missions in survival mode.
+
+Compatibility:
+
+Survival Tweaks only edits survival mode settings so it's very lightweight and should work with just about any other mod, although it will obviously conflict with any mod that edits the same configs.
+
+AI use:
+
+No artificial intelligence was used in the creation of this mod (praise Ludd!)
